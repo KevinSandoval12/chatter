@@ -8,7 +8,7 @@ public class OutServer {
         
     }
 
-    public void writeToSocket(int port) throws IOException {
+    public static void writeToSocket(int port) throws IOException {
         
     }
 }
